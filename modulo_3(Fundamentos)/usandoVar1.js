@@ -16,3 +16,4 @@ function teste() {
 }
 
 teste()
+console.log(local) // Não é enxergada fora do escopo da função
